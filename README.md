@@ -1,8 +1,5 @@
-# Arabic-Visual-Novel
-This tools is first tool can help you to full translate any visual novel game to arabic, starting from white album2
-this is really simple tool, working by changing the fonts of kanji to arabic latters, and tool it self you click arabic latter and it output you kanji, this kanji is connected in font file to arabic letter by its work location first of word, middle, last and isolated. so 28 arabic latter be more that 100 with these locations
-and then you take this kanji latters and write them in file script files, and yeah you will get arabic support! also this tool help in right to left support somehow 
-
+# Auto-Arabic-Visual-Novel
+This full automation of this tool: https://github.com/abdalgani1/Arabic-Visual-Novel
 how to use: 
 
 in the first you need to add tga photos to the game. 
@@ -14,7 +11,8 @@ after that you need to change script files to be able to add arabic to it
 you can use garbro to extract sctipt.pak and then make folder and copy extacted files to it.
 
 about the app:
-![Capture](https://github.com/abdalgani1/Arabic-Visual-Novel/assets/88602099/d2ebca5f-e95a-4e91-b296-18c2a3b7448e)
+![‏لقطة الشاشة 2024-01-17 في 10 30 02 ص](https://github.com/abdalgani1/Auto-AR-Visual-Novel/assets/88602099/9852ae08-878b-46a8-a6ce-a8848064d3e6)
+
 
 it first text area you can put arabic sctipt and then start click buttons to make the kanji alternatives and make sure to not exceed the 27kanji limit in one line , then click تنزيل to make program add new line and help in right to left support
 then just put the text in game files 
