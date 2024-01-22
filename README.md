@@ -10,4 +10,5 @@ about the app:
 
 
 it first text area you can put arabic sctipt and then start click buttons to make the kanji alternatives and make sure to not exceed the 27kanji limit in one line , then click تنزيل to make program add new line and help in right to left support then just put the text in game files 11
-![295761834-165d5311-9559-4e9d-ba24-fc5d7381fd14](https://github.com/abdalgani1/Auto-AR-Visual-Novel/assets/88602099/d7702c8b-26c2-476a-bca5-d3975f97cfbb)
+![Capture](https://github.com/abdalgani1/Auto-AR-Visual-Novel/assets/88602099/3336cca3-c24d-4338-85c7-9c7262ae8e1f)
+
