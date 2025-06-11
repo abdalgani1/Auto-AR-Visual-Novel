@@ -5,7 +5,7 @@ how to use:
 
 in the first you need to add tga photos to the game. its easy all what you need to do is delete fnt.pak then make sure you dont have en.pak file!!! then make new folder and name it fnt, fnt only without anything more. and copy all files in rar to this folder also this files containe arabic support to the game. after that you need to change script files to be able to add arabic to it you can use garbro to extract sctipt.pak and then make folder and copy extacted files to it.
 
-about the app: ![‏لقطة الشاشة 2024-06-16 في 6 20 46 ص](https://github.com/abdalgani1/Auto-AR-Visual-Novel/assets/88602099/1542bd55-b91a-4a2e-9635-e6af089ba1db)
+about the app: ![‏لقطة الشاشة 2025-06-11 في 8 10 36 م](https://github.com/user-attachments/assets/9e23a66b-663c-4d84-9708-922c7d249686)
 
 
 ![
@@ -15,3 +15,4 @@ it first text area you can put arabic sctipt and then start click buttons to mak
 
 ![‏لقطة الشاشة 2024-05-01 في 5 33 38 م](https://github.com/abdalgani1/Auto-AR-Visual-Novel/assets/88602099/2a274d66-ee01-4473-81db-b766bf3340d4)
 
+now you can use right to left support tool to make text show normally from right to left not like these photos
