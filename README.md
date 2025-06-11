@@ -5,7 +5,8 @@ how to use:
 
 in the first you need to add tga photos to the game. its easy all what you need to do is delete fnt.pak then make sure you dont have en.pak file!!! then make new folder and name it fnt, fnt only without anything more. and copy all files in rar to this folder also this files containe arabic support to the game. after that you need to change script files to be able to add arabic to it you can use garbro to extract sctipt.pak and then make folder and copy extacted files to it.
 
-about the app: ![‏لقطة الشاشة 2025-06-11 في 8 10 36 م](https://github.com/user-attachments/assets/9e23a66b-663c-4d84-9708-922c7d249686)
+about the app: ![‏لقطة الشاشة 2025-06-11 في 8 19 44 م](https://github.com/user-attachments/assets/7357c51f-3716-417e-b1da-4cb267888d5f)
+
 
 
 ![
